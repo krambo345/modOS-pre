@@ -1,4 +1,5 @@
-# modOS Cambaz `v1.0.0`
+# modOS `v1.0.0` (RETIRED)
+If you would like to access the newer and better modOS, please go to https://github.com/krambo345/modOS
 `Vanilla HTML, CSS, and JS`
 
 https://github.com/user-attachments/assets/eac04a41-765e-40e9-a93d-a7b4c55b87a3
